@@ -1,4 +1,4 @@
-# jogo-pedra-papel-tesoura
+
 # Jogo Pedra, Papel e Tesoura 🎮
 
 Projeto simples feito em JavaScript para praticar lógica de programação.  
